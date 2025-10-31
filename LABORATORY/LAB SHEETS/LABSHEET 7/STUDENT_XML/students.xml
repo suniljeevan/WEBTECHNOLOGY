@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students>
+  <student>
+    <name>Arun Kumar</name>
+    <rollno>101</rollno>
+    <department>CSE</department>
+    <year>3</year>
+  </student>
+  <student>
+    <name>Priya Sharma</name>
+    <rollno>102</rollno>
+    <department>ECE</department>
+    <year>2</year>
+  </student>
+  <student>
+    <name>Rahul Das</name>
+    <rollno>103</rollno>
+    <department>ME</department>
+    <year>4</year>
+  </student>
+</students>
