@@ -12,9 +12,9 @@ myhome.html code
 <head> <title> My home </title>
 </head>
 <frameset rows="15%,65%,20%">
-<frame name="top" src="top.html">
-<frame name="middle" src="middle.html">
-<frame name="bottom" src="bottom.html">
+<frame name="topFrame" src="top.html">
+<frame name="middleFrame" src="middle.html">
+<frame name="bottomFrame" src="bottom.html">
 </frameset>
 </html>
 top.html code
@@ -36,6 +36,10 @@ code for about.html
 <html>
 <head>
 <title> about </title>
+<style>
+
+
+</style>
 </head>
 <body>
 <p><h2>
@@ -55,7 +59,28 @@ innovation and research-oriented teaching methodologies and offers a contemporar
 </h2></p>
 </body></html>
 
-
+code for service.html
+<html>
+<head>
+  <style>
+    body { font-family: Arial; 
+    background-color: #fff; 
+     padding: 20px; 
+    }
+    h2 { color: #003366; }
+    ul { line-height: 1.8; }
+  </style>
+</head>
+<body>
+  <h2>Products & Services</h2>
+  <ul>
+    <li>Web Application Development</li>
+    <li>Mobile App Solutions</li>
+    <li>Cloud & AI Services</li>
+    <li>IT Consulting</li>
+  </ul>
+</body>
+</html>
 
 
 
