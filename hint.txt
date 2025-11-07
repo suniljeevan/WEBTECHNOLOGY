@@ -1,0 +1,65 @@
+1.Create a folder named as PUWebsite under C Drive
+2. Open notepad save the file as myhome.html
+   under folder PUWebsite
+3. open notepad save the file as mystyle.css 
+   under folder PUWebsite
+4. open notepad 3 times , save the files
+  as top.html, bottom.html and middle.html
+   respectively under same folder PUWebsite
+
+myhome.html code
+<html>
+<head> <title> My home </title>
+</head>
+<frameset rows="15%,65%,20%">
+<frame name="top" src="top.html">
+<frame name="middle" src="middle.html">
+<frame name="bottom" src="bottom.html">
+</frameset>
+</html>
+top.html code
+<html>
+<head>
+<title> top </title>
+</head>
+<body>
+<img src="logo.jpg" width=50>
+<p>
+<a href="about.html"> about </a>
+<a href="service.html"> about </a>
+<a href="news.html"> about </a>
+<a href="contact.html"> about </a>
+<a href="Login.html"> about </a>
+</p>
+</body></html>
+code for about.html
+<html>
+<head>
+<title> about </title>
+</head>
+<body>
+<p><h2>
+Presidency University, established by 
+eminent educationist-philanthropist 
+Dr. Nissar Ahmed, 
+is a private university established 
+under the Presidency University Act (Karnataka State Act no. 41) in 2013 and is a part of the Presidency Group of Institutions.
+
+The Group started its first school in the 
+year 1976 and has gradually expanded to 
+8 schools, 4 junior colleges, and 1 
+college across of Bengaluru and Mangaluru in Karnataka.
+
+The University is dedicated to 
+innovation and research-oriented teaching methodologies and offers a contemporary curriculum that is industry-ready. Its also Committed to providing interdisciplinary, outcome-based education through a combination of theoretical knowledge, applied science, and experiential learning processes.
+</h2></p>
+</body></html>
+
+
+
+
+
+
+
+
+
