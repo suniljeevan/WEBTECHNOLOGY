@@ -1,0 +1,9 @@
+open any browser
+
+type address
+
+http://localhost/webapp/fileread.php
+http://localhost/webapp/add.html
+http://localhost/webapp/db.php
+http://localhost/webapp/db_tablecreation.php
+http://localhost/webapp/db_insert.php
