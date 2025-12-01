@@ -1,6 +1,10 @@
+Install XAMPP
+goto C://XAMPP folder
+keep webapp folder inside htdocs folder of C://XAMPP 
+
 open any browser
 
-type address
+type address  use address bar
 
 http://localhost/webapp/fileread.php
 http://localhost/webapp/add.html
